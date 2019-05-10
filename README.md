@@ -34,5 +34,8 @@ Lily Clark, 22 years old
 Lily needs a way to experience a feeling of freedom.
 She wants to be comfortable with herself without feeling judged.
 
+## Deploy
+https://michellemeinert.github.io/Hackathon-plate/
 
-
+## Presentation
+tbd
