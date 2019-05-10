@@ -1,12 +1,27 @@
-# Hackathon-plate 2019
+# Project Name 
 
-> Internal Ironhack Barcelona Hackathon (UX/UI + WebDev)
+## Description 
 
-## How to use
+## Process
+- brainstorming to find our superfood
+- once decided, researching its properties and 
 
-- Fork to your github account
-- Use this file to describe your project, plan, take notes, todos, etc...
-- Have fun
+## Persona
+Lily Clark, 22 years old
+- cool but no leader
+- fashionable
+- Active on social media
+- Conscious of health but zesty
+- Climb the social letter but have fun while doing so
+- super natural
+- she has an internal conflict (which we are going to solve with our açai drink)
+
+## Problem Statement
+Lily needs a way to experience a feeling of freedom.
+She wants to be comfortable with herself without feeling judged.
+
+
+
 
 ### Files included:
 
