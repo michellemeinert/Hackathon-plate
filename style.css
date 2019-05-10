@@ -1,45 +1,224 @@
 /* ---- reset ---- */
-
+@import url('https://fonts.googleapis.com/css?family=Raleway');
 html {
   box-sizing: border-box;
+  font-family: 'Raleway', sans-serif;
 }
 *, *:before, *:after {
   box-sizing: inherit;
 }
-
 body {
-  margin: 0;
+  margin: 0px;
   padding: 0;
+  background-color: #FCFCFC;
 }
-
-
 /* ---- typography ---- */
-
-
 /* ---- layout ---- */
-
-
 .container {
   margin: 0 20px;
 }
-
 .section {
   margin-bottom: 20px;
   padding-top: 20px;
 }
-
 @media (min-width: 768px) {
   .container {
     max-width: 728px;
     margin: 0 auto;
   }
 }
+/*************** NAVBAR ****************/
+nav {
+  display: flex;
+  justify-content: space-between;
+  height: 6vh;
+  position: fixed;
+  top: 0;
+  width: 100vw;
+}
+.nav-img{
+  height: 90%;
 
-/* ---- header ---- */
+}
+.logo-container {
+  margin-top: 15px;
+  padding-left: 10px;
+}
+.links-container {
+  padding-right: 20px;
+  margin-left: -80px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.links-container a {
+  text-decoration: none;
+  color: white;
+  margin-left: 10px;
+  color: #3A015C;
+}
+/*************** LANDING SECTION ****************/
+.landing-section {
+  background: url('./assets/Captura\ de\ pantalla\ 2019-05-10\ a\ las\ 14.58.47.png') center / cover no-repeat; 
+  /* background-color: purple; */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  height: 75vh;
+}
+.landing-section div {
+  margin-top: 70px;
+}
 
-/* ---- footer ---- */
+.landing-section h2 {
+  margin-top: 0;
+  padding-top: 90px;
+  font-weight: bold;
+}
+.landing-section h1{
+  text-align: center;
+  font-size: 50px;
+  color: #3A015C;
+}
+.get-invite-button{
+  background-color: #3A015C;
+  color: white;
+  border: none;
+}
+.landing-section form {
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 50px;
+  align-items: center;
+}
+.landing-section input {
+  margin-bottom: 8px;
+}
+.landing-section button {
+  width: 50%;
+  height: 30px;
+  border-radius: 10px;
+}
+/*************** MISSION ****************/
+.mission {
+  height: 25vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0 25px;
+  color: #67004A;
+}
 
-/* ---- components ---- */
+/*************** PARTY SECTION ****************/
+.party-section {
+  height: 100vh;
+  width: 100%;
+}
+.party-container {
+ 
+  display: flex; 
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; 
+}
+.party-container img {
+  width: 90vw;
+}
+.party-container p {
+  width: 90vw;
+  color: #3A015C;
+}
 
-/* ---- css shame ---- */
+.influencer-container {
+  display: flex;
+  /* flex-direction: column; */
+  justify-content: space-between;
+  margin-top: 40px;
+  
+}
+.influencer {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+.influencer img {
+  width: 80%;
+  /* height: 100px; */
+}
 
+ .influencer blockquote {
+  text-align: left;
+  color: #67004A;
+} 
+
+.trust article {
+ 
+  text-align: center;
+}
+/*************** PRODUCT SECTION ****************/
+.product-section {
+
+  height: 100vh;
+  padding-top: 30px;
+}
+
+/*************** PRODUCT SECTION ****************/
+.product-section {
+  padding: 0 25px;
+  /* height: 100vh; */
+}
+.product-image-container {
+  height: 40vh;
+  display: flex;
+  justify-content: center;
+}
+.product-image-container img {
+  width: 70%;
+  padding: 30px 0;
+  /* height: 100%; */
+}
+.product-container {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 30px;
+  
+}
+.product-container img {
+  width: 200px;
+  height: 200px;
+  padding-right: 20px;
+ 
+  /* margin: 0 auto; */
+}
+.drink-image {
+  display: flex;
+  justify-content: center;
+}
+.drink-image img {
+  width: 320px;
+  padding-top: 20px;
+}
+.brand-container {
+  padding: 30px 0;
+  display: flex;
+
+  width: 100vw;
+}
+.brand-container img {
+  height: 10%;
+  width: 28%;
+  padding: 0 20px;
+}
+
+.trust {
+  background-color: #67004A;
+  
+  color: white;
+  padding: 5px 5px;
+  display: flex;
+  justify-content: center;
+  align-items:center;
+}
