@@ -1,7 +1,7 @@
-# çai
+# açaidiac
 
 ## Description 
-çai is an energizing, fun and healthy 'aphrodisiac' soda drink.
+açaidiac is an energizing, fun and healthy 'aphrodisiac' soda drink.
 
 The idea is to use an exclusive party invitation as a call to action, and for the customer to get to know our superfood drink at said party. 
 We're not selling a soft drink we're selling the feeling of freedom and letting go of yourself for a while, exlusively linked to the properties of our product and party. 
