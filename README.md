@@ -1,10 +1,24 @@
-# Project Name 
+# çai
 
 ## Description 
+çai is an energizing, fun and healthy 'aphrodisiac' soda drink.
+
+The idea is to use an exclusive party invitation as a call to action, and for the customer to get to know our superfood drink at said party. 
+We're not selling a soft drink we're selling the feeling of freedom and letting go of yourself for a while, exlusively linked to the properties of our product and party. 
 
 ## Process
 - brainstorming to find our superfood
-- once decided, researching its properties and 
+- researching açai properties and different ways of selling the product
+- researching landing pages 
+- creating persona and problem statement
+- crazy 8 (to get diffrent layout ideas as a team)
+- creating lo-fi wireframes
+- doing styles (color palette and typography)
+- searching for images 
+- hi-fi wireframes
+- html basic structure
+- brand-building (name, slogan, ...)
+- applying css
 
 ## Persona
 Lily Clark, 22 years old
@@ -22,13 +36,3 @@ She wants to be comfortable with herself without feeling judged.
 
 
 
-
-### Files included:
-
-  - `index.html`
-  - `style.css`
-  - `main.js`
-
-### Folders included:
-
-  - `./assets` (add images, fonts, etc...)
